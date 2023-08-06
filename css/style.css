@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+table{
+    border: 1px solid #000;
+}
+td{
+    border: 1px solid #000;
+}
+.dias{
+    font-size: 3rem;
+}
+#lunes{
+    color: rgb(233, 106, 2);
+}
+#martes{
+    color:rgb(7, 168, 231) ;
+}
+#miercoles{
+    color: rgb(247, 4, 166);
+}
+#jueves{
+    color: rgb(236, 4, 4);
+}
+#viernes{
+    color: rgb(171, 1, 177);
+}
+#sabado{
+    color: rgb(40, 2, 255);
+}
+#domingo{
+    color: rgb(5, 184, 109);
+}
+body{
+    background-image: url(../images/prueba.jpg);
+    background-size: cover;
+}
